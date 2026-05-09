@@ -1,5 +1,3 @@
-# python-port-scanner
-Beginner cybersecurity project using Python
 # Python Port Scanner
 
 My first cybersecurity project using Python.
@@ -10,4 +8,4 @@ My first cybersecurity project using Python.
 - Built using Python sockets
 
 ## Author
-Rahul Salunke
+xtilloverdose
